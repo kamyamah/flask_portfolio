@@ -59,4 +59,32 @@ CompSci has 150 principles students. Describe a crowdsource idea and how you mig
 Idea is poor information that can be changed and updated like wikipedia. obtain (information or input into a particular task or project) by enlisting the services of a large number of people, either paid or unpaid, typically via the internet.
 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 Yes because people can change our project to fit their needs 
+### 5.5
+When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+- Open source: anyone can have your code
+- MIT 
+- Creative Commons: licesncing to your material 
+- Patents: what Mr.M talked about in his tech talk
 
+Make a license for your personal and Team project. Document license you picked and why.
+
+MIT liscence because it is open source and provides the most freedom for people to acess the website. 
+### 5.6
+Describe PII you have seen on project in CompSci Principles.
+
+In the crud database where we put in our personal infromation for people to see. 
+
+What are your feelings about PII and your exposure?
+I feel it is a good thing when trying to garner information about a certain topic or someone. 
+
+Describe good and bad passwords? What is another step that is used to assist in authentication.
+good passwords contain lower case and uppercase letters special characters that are placed uniquely so someone cant guess as easily.
+
+Try to describe Symmetric and Asymmetric encryption.
+Symetiric is Parralle and Asymetric is not 
+
+Provide and example of encryption we used in deployment.
+In deployment when using opensource we had to put in our password to our computers. 
+
+Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+Someone sending me a link and it garnering personal information to hack my account. Emails and phone text are also ways scammers can ger your information
